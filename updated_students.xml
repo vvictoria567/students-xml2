@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Ivan Ivanov</name>
+        <skills>
+            <skill>Java</skill>
+            <skill>Kotlin</skill>
+            <skill>New Skill</skill>
+        </skills>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Petr Petrov</name>
+        <skills>
+            <skill>Python</skill>
+            <skill>C#</skill>
+            <skill>New Skill</skill>
+        </skills>
+    </student>
+</students>
