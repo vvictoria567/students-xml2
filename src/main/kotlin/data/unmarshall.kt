@@ -5,7 +5,7 @@ import javax.xml.bind.Unmarshaller
 import data.*
 
 fun main() {
-    val inputFilePath = "C:\\Users\\victo\\OneDrive\\Документы\\students.xml"
+    val inputFilePath = "students.xml"
     val outputFilePath = "updated_students.xml"
 
     // 1. Unmarshall XML в объекты
